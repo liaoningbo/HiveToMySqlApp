@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hualala.com.iml" filepath="$PROJECT_DIR$/hualala.com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HiveToMySqlApp.iml" filepath="$PROJECT_DIR$/HiveToMySqlApp.iml" />
     </modules>
   </component>
 </project>
